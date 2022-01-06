@@ -140,7 +140,7 @@ You must share only files that you are allowed. **Do NOT disrespect the code of 
 The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
 
 
-### Math prerequisites:
+### High School Math prerequisites:
 Many OSSU students choose to review math topics that they have not studied recently.
 OSSU recommends students use Khan Academy for such a review.
 Below are links to topic assessments.
